@@ -1,0 +1,17 @@
+name: gtkyoto
+version: 0.1.0
+
+authors:
+  - Giorgi Kavrelishvili
+
+dependencies:
+  kyo:
+    git: git@github.com:grkek/kyo
+    branch: develop
+
+  gobject:
+    github: jhass/crystal-gobject
+
+crystal: 0.35.1
+
+license: MIT
